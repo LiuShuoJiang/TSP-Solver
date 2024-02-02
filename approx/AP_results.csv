@@ -1,0 +1,14 @@
+Dataset,Time(s),sol.Quality,Full_Tour
+Atlanta.tsp,0.001085,2488305.50,Yes
+Berlin.tsp,0.004098,10116.01,Yes
+Boston.tsp,0.002751,1107060.98,Yes
+Champaign.tsp,0.004568,64759.97,Yes
+Cincinnati.tsp,0.000655,318225.12,Yes
+Denver.tsp,0.009561,129209.42,Yes
+NYC.tsp,0.006842,2008452.88,Yes
+Philadelphia.tsp,0.001825,1697408.10,Yes
+Roanoke.tsp,0.076229,796027.79,Yes
+SanFrancisco.tsp,0.013525,1085019.45,Yes
+Toronto.tsp, 0.016014,1652073.07,Yes
+UKansasState.tsp,0.000658, 70316.52,Yes
+UMissouri.tsp,0.015262,170426.89,Yes
